@@ -14,7 +14,7 @@
 
 - 🔭 I’m passionate about **Software engineering and IT industry**
 
-- 🌱 I’m currently **expanding my knowledge in Mern Stack as well as Data Engineering concepts**
+- 🌱 I’m currently **expanding my knowledge in MERN Stack as well as Data Engineering concepts**
 
 - 🌟 I love **solving problems and constantly learning new technologies**
 
